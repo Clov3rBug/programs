@@ -1,0 +1,3 @@
+﻿  workerManager.cpp
+D:\#program\cpp learning\职工管理系统\职工管理系统\workerManager.cpp(538,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  职工管理系统.vcxproj -> D:\#program\cpp learning\职工管理系统\Debug\职工管理系统.exe
